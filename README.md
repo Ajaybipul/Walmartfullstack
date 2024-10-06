@@ -1,6 +1,4 @@
-Here's an expanded version of the project description, ensuring it meets the word count requirement:
 
----
 
 ### Walmart-Inspired E-Commerce Platform
 
